@@ -7,10 +7,10 @@ package space_trader
 
 import (
 	"encoding/json"
-	"github.com/HOWZ1T/space_trader/cache"
-	"github.com/HOWZ1T/space_trader/errs"
-	"github.com/HOWZ1T/space_trader/events"
-	"github.com/HOWZ1T/space_trader/models"
+	"github.com/emacsified/r2d2-trader/cache"
+	"github.com/emacsified/r2d2-trader/errs"
+	"github.com/emacsified/r2d2-trader/events"
+	"github.com/emacsified/r2d2-trader/models"
 	"io/ioutil"
 	"net/http"
 	"strings"

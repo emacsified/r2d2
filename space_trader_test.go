@@ -2,10 +2,10 @@ package space_trader
 
 import (
 	"fmt"
-	"github.com/HOWZ1T/space_trader/assert"
-	"github.com/HOWZ1T/space_trader/errs"
-	"github.com/HOWZ1T/space_trader/events"
-	"github.com/HOWZ1T/space_trader/models"
+	"github.com/emacsified/r2d2-trader/assert"
+	"github.com/emacsified/r2d2-trader/errs"
+	"github.com/emacsified/r2d2-trader/events"
+	"github.com/emacsified/r2d2-trader/models"
 	"github.com/google/uuid"
 	"github.com/joho/godotenv"
 	"math"

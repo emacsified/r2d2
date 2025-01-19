@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/HOWZ1T/space_trader/errs"
-	"github.com/HOWZ1T/space_trader/events"
-	"github.com/HOWZ1T/space_trader/models"
+	"github.com/emacsified/r2d2-trader/errs"
+	"github.com/emacsified/r2d2-trader/events"
+	"github.com/emacsified/r2d2-trader/models"
 )
 
 // Retrieves the available ships.

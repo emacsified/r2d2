@@ -3,9 +3,9 @@ package space_trader
 import (
 	"fmt"
 
-	"github.com/HOWZ1T/space_trader/errs"
-	"github.com/HOWZ1T/space_trader/events"
-	"github.com/HOWZ1T/space_trader/models"
+	"github.com/emacsified/r2d2-trader/errs"
+	"github.com/emacsified/r2d2-trader/events"
+	"github.com/emacsified/r2d2-trader/models"
 )
 
 // Changes this instance of SpaceTrader to be the specified user.

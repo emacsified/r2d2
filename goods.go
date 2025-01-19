@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/HOWZ1T/space_trader/events"
-	"github.com/HOWZ1T/space_trader/models"
+	"github.com/emacsified/r2d2-trader/events"
+	"github.com/emacsified/r2d2-trader/models"
 )
 
 // Buys the specified good at the specified quantity for the specified ship.
