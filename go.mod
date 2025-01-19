@@ -1,4 +1,4 @@
-module github.com/HOWZ1T/space_trader
+module github.com/emacsified/r2d2-trader
 
 go 1.15
 
