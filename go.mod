@@ -1,5 +1,5 @@
 module github.com/emacsified/r2d2
-
+replace github.com/HOWZ1T/space_trader => github.com/emacsified/r2d2 master
 go 1.23
 
 require (
