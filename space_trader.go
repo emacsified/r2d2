@@ -3,14 +3,14 @@
 // More info available here: https://spacetraders.io/
 //
 // This project provides a golang wrapper for the api.
-package space_trader
+package r2d2
 
 import (
 	"encoding/json"
-	"github.com/emacsified/r2d2-trader/cache"
-	"github.com/emacsified/r2d2-trader/errs"
-	"github.com/emacsified/r2d2-trader/events"
-	"github.com/emacsified/r2d2-trader/models"
+	"github.com/emacsified/r2d2/cache"
+	"github.com/emacsified/r2d2/errs"
+	"github.com/emacsified/r2d2/events"
+	"github.com/emacsified/r2d2/models"
 	"io/ioutil"
 	"net/http"
 	"strings"

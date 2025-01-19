@@ -3,7 +3,7 @@
 package main
 
 import (
-	"github.com/emacsified/r2d2-trader"
+	"github.com/emacsified/r2d2"
 	"fmt"
 )
 
@@ -14,7 +14,7 @@ func check(err error) {
 }
 
 func main() {
-    spaceTrader := space_trader.New("<token>", "<username>")
+    spaceTrader := r2d2.New("<token>", "<username>")
     status, err := spaceTrader.ApiStatus()
     check(err)
     fmt.Printf("API Status: %s", status)

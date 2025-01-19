@@ -1,12 +1,12 @@
-package space_trader
+package r2d2
 
 import (
 	"encoding/json"
 	"fmt"
 	"strconv"
 
-	"github.com/emacsified/r2d2-trader/events"
-	"github.com/emacsified/r2d2-trader/models"
+	"github.com/emacsified/r2d2/events"
+	"github.com/emacsified/r2d2/models"
 )
 
 // Buys the specified good at the specified quantity for the specified ship.

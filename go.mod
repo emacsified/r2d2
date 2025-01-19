@@ -1,6 +1,6 @@
-module github.com/emacsified/r2d2-trader
+module github.com/emacsified/r2d2
 
-go 1.15
+go 1.23
 
 require (
 	github.com/google/uuid v1.2.0

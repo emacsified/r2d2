@@ -1,10 +1,10 @@
-package space_trader
+package r2d2
 
 import (
 	"fmt"
 	"math"
 
-	"github.com/emacsified/r2d2-trader/models"
+	"github.com/emacsified/r2d2/models"
 	"github.com/mitchellh/mapstructure"
 )
 

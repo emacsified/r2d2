@@ -1,8 +1,8 @@
 ![Cover Image](assets/cover.png)
 # 🚀 Space Trader API 🛠️ [WIP]
-[![Build Status](https://www.travis-ci.com/emacsified/r2d2-trader.svg?branch=master)](https://www.travis-ci.com/emacsified/r2d2-trader)
-[![codecov](https://codecov.io/gh/emacsified/r2d2-trader/branch/master/graph/badge.svg?token=4L7QO7TFDX)](https://codecov.io/gh/emacsified/r2d2-trader)
-[![Go Report Card](https://goreportcard.com/badge/github.com/emacsified/r2d2-trader)](https://goreportcard.com/report/github.com/emacsified/r2d2-trader)
+[![Build Status](https://www.travis-ci.com/emacsified/r2d2.svg?branch=master)](https://www.travis-ci.com/emacsified/r2d2)
+[![codecov](https://codecov.io/gh/emacsified/r2d2/branch/master/graph/badge.svg?token=4L7QO7TFDX)](https://codecov.io/gh/emacsified/r2d2)
+[![Go Report Card](https://goreportcard.com/badge/github.com/emacsified/r2d2)](https://goreportcard.com/report/github.com/emacsified/r2d2)
 
 Space Traders is an API game where players explore the stars in order to exploit for it's riches.
 
@@ -15,7 +15,7 @@ Notice this package is in it's alpha stage and is subject to api changes.
 
 ## 🔧 Documentation
 - [Event Reference](EVENTS.md)
-- [Go Docs](https://pkg.go.dev/github.com/emacsified/r2d2-trader)
+- [Go Docs](https://pkg.go.dev/github.com/emacsified/r2d2)
 
 ## 💾 Models
 Most of the objects have been modelled and can be accessed through the model package.

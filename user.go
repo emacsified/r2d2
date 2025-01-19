@@ -1,11 +1,11 @@
-package space_trader
+package r2d2
 
 import (
 	"fmt"
 
-	"github.com/emacsified/r2d2-trader/errs"
-	"github.com/emacsified/r2d2-trader/events"
-	"github.com/emacsified/r2d2-trader/models"
+	"github.com/emacsified/r2d2/errs"
+	"github.com/emacsified/r2d2/events"
+	"github.com/emacsified/r2d2/models"
 )
 
 // Changes this instance of SpaceTrader to be the specified user.

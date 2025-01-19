@@ -1,7 +1,7 @@
 package events
 
 import (
-	"github.com/emacsified/r2d2-trader/models"
+	"github.com/emacsified/r2d2/models"
 	"time"
 )
 
